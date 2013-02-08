@@ -51,3 +51,7 @@ This project assumes that you are comfortable with the command-line. If you aren
 You'll need some sort of a webserver to display these pages. I recommend setting up a free [site44](http://www.site44.com) account. Then you can upload files to your website just by putting them into a folder in Dropbox.
 
 You could also `scp` the file to a server if you already have one. You'll see where in the `mas-makepage.sh` file.
+
+## There is an alternative!
+
+If you'd rather get the files sent to you via email instead of uploading them to a website, see <https://github.com/tjluoma/appstorebyemail> which does something similar but via email.
